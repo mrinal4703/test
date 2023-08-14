@@ -1,0 +1,6 @@
+{{#user}
+Name: Mrinal
+Skills: HTML, CSS, JS, Next.js
+Email: mrinal.gupta@mitaoe.ac.in
+{{/user}}
+ 
